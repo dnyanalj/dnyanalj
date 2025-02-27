@@ -1,10 +1,10 @@
 <h1 >Hi 👋, I'm Dnyanal Jathar</h1>
-<h3 >I am learning Full Stack Web Development </h3>
+<h3 >I am a Fullstack Developer </h3>
 
 
-- 🔭 I’m currently working on **Form Builder**
+- 🔭 I’m currently working on **websocket chatting application**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me: **jathardnyanal@gmail.com**
 
