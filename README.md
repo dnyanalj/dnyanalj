@@ -2,7 +2,7 @@
 <h3 >I am a Fullstack Developer </h3>
 
 
-- 🔭 I’m currently working on **websocket chatting application**
+- 🔭 I’m currently working on **chat application using websockets**
 
 - 🌱 I’m currently learning **Docker**
 
