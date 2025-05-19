@@ -2,7 +2,7 @@
 <h3 >I am a Fullstack Developer </h3>
 
 
-- 🔭 I’m currently working on the **form builder **
+- 🔭 I’m currently working on the **Form builder**
 
 - 🌱 I’m currently learning **Docker**
 
