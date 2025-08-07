@@ -2,9 +2,9 @@
 <h3 >I am a Fullstack Developer </h3>
 
 
-- 🔭 I’m currently working on the **Dropbox Clone - Droply**
+- 🔭 I’m currently working on the **HireQuest-Job finding Application**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me: **jathardnyanal@gmail.com**
 
