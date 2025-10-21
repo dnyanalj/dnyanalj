@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on the **Exam portal Website**
 
-- 🌱 I’m currently learning Angular****
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me: **jathardnyanal@gmail.com**
 
