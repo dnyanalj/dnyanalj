@@ -2,9 +2,9 @@
 <h3 >I am a Fullstack Developer </h3>
 
 
-- 🔭 I’m currently working on the **HireQuest-Job finding Application**
+- 🔭 I’m currently working on the **Exam portal Website**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning Angular****
 
 - 📫 How to reach me: **jathardnyanal@gmail.com**
 
