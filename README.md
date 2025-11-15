@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on the **Exam portal Website-ShikenX**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **how to host a website using Vercel and Railways**
 
 - 📫 How to reach me: **jathardnyanal@gmail.com**
 
