@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Dnyanal Jathar</h1>
-<h3 >I am a Fullstack Developer </h3>
+<h3 >I am a junior Software Developer </h3>
 
 
 - 🔭 I’m currently working on the **Exam portal Website-ShikenX**
