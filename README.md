@@ -1,8 +1,4 @@
 <h1 >Hi 👋, I'm Dnyanal Jathar</h1>
-<h3 >I am a junior Software Developer </h3>
-
-
-- 🔭 I’m currently working on the **Exam portal Website-ShikenX**
 
 - 📫 How to reach me: **jathardnyanal@gmail.com**
 
